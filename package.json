@@ -1,0 +1,14 @@
+{
+  "name": "weather-katz",
+  "version": "1.0.1",
+  "description": "Weather temp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Katz",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
